@@ -1,5 +1,5 @@
 {
-  "author": "Josh Goldberg <josh@codecademy.com>",
+  "author": "Codecademy Engineering <dev@codecademy.com>",
   "dependencies": {
     "@typescript-eslint/experimental-utils": "^4.14.0"
   },
@@ -41,6 +41,10 @@
   "peerDependencies": {
     "eslint": ">=5.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Codecademy/eslint-plugin-jest-react.git"
+  },
   "scripts": {
     "compile": "tsc",
     "format": "yarn prettier --write",
@@ -51,5 +55,5 @@
     "test": "jest",
     "test:ci": "jest --maxWorkers=2"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }

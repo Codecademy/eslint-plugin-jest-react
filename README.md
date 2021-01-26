@@ -6,7 +6,7 @@
     <img width="150" height="150" src="https://jestjs.io/img/jest.png">
   </a>
   <a href="https://reactjs.org">
-    <img width="150" height="150" src="./img/react.png">
+    <img width="150" height="150" src="https://static-assets.codecademy.com/engineering/opensource/react.png">
   </a>
   <h1>eslint-plugin-jest-react</h1>
   <p>ESLint plugin for Jest with React</p>
