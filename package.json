@@ -55,5 +55,5 @@
     "test": "jest",
     "test:ci": "jest --maxWorkers=2"
   },
-  "version": "0.0.2"
+  "version": "0.1.0"
 }
