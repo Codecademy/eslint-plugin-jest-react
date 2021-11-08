@@ -25,7 +25,6 @@ export default createRule({
   defaultOptions: [],
   meta: {
     docs: {
-      category: "Best Practices",
       description:
         "Keeps the name passed to describe() blocks just a component name, without JSX markup",
       recommended: "error",

@@ -34,7 +34,6 @@ export default createRule<Options, MessageIds>({
   ],
   meta: {
     docs: {
-      category: "Best Practices",
       description: "Prevents using jest.mock to mock out core React packages",
       recommended: "error",
     },
