@@ -1,7 +1,7 @@
 {
   "author": "Codecademy Engineering <dev@codecademy.com>",
   "dependencies": {
-    "@typescript-eslint/experimental-utils": "^4.14.0"
+    "@typescript-eslint/experimental-utils": "^5.3.1"
   },
   "description": "ESLint plugin for Jest with React",
   "devDependencies": {
